@@ -3,21 +3,21 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/stefanolabia/))
+  - [Praciting DS & Algos in Python](https://github.com/stefanodicorato/))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/stefanolabia/)) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/stefanodicorato/)) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/stefanolabia/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/stefanolabia/)
-  - [Active Directory Bulk User Creation](https://github.com/stefanolabia/)
-  - [FIM (File Integrity Monitor)](https://github.com/stefanolabia/)
-  - [NMAP-Automatisation](https://github.com/stefanolabia/NMAP-Automatisation-)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/stefanodicorato/)
+  - [JWipe (Disk Wiping Utility)](https://github.com/stefanodicorato/)
+  - [Active Directory Bulk User Creation](https://github.com/stefanodicorato/)
+  - [FIM (File Integrity Monitor)](https://github.com/stefanodicorato/)
+  - [NMAP-Automatisation](https://github.com/stefanodicorato/NMAP-Automatisation-)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/stefanolabia/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/stefanolabia/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/stefanolabia/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/stefanodicorato/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/stefanodicorato/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/stefanodicorato/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/stefanolabia/))
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/stefanodicorato/))
 
 
 <h2> 🤳 Connect with me:</h2>
